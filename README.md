@@ -3,7 +3,9 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" target="_blank">
           
-
+<div align="right">
+  <img src="https://gifdb.com/images/high/anime-birthday-zoro-smile-one-piece-qs1nsguyamwkbs9d.webp" width="150" height="120" alt="Zoro from One Piece" />
+</div>
 
 
 <h1 align="center">👋 Hi, I'm Chorn THOEN</h1>
