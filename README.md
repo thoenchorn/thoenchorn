@@ -2,10 +2,7 @@
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" target="_blank">
-          
-<div align="right">
-  <img src="https://gifdb.com/images/high/anime-birthday-zoro-smile-one-piece-qs1nsguyamwkbs9d.webp" width="150" height="120" alt="Zoro from One Piece" />
-</div>
+
 
 
 <h1 align="center">👋 Hi, I'm Chorn THOEN</h1>
@@ -19,11 +16,23 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Flutter, iOS, Android, Spring Boot, and .Net**
-- 💬 Ask me about mobile app development, Flutter, and backend APIs
+<table>
+  <tr>
+    <td>
+
+- 🌱 I’m currently learning **Flutter, iOS, Android, Spring Boot, and .Net**  
+- 💬 Ask me about mobile app development, Flutter, and backend APIs  
 - ⚡ Fun Fact: I love creating smooth animations and pixel-perfect UIs
 
+</td>
+    <td align="right">
+      <img src="https://gifdb.com/images/high/anime-birthday-zoro-smile-one-piece-qs1nsguyamwkbs9d.webp" width="150" height="120" alt="Zoro from One Piece" />
+    </td>
+  </tr>
+</table>
+
 ---
+
 
 ### 📫 Connect with Me
 
