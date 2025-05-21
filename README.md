@@ -1,4 +1,8 @@
 <!-- Banner -->
+
+<p align="right">
+  <img src="https://i.pinimg.com/originals/98/35/e9/9835e9a37b1e23eab28fbeb8e3cf84e3.gif" alt="Zoro from One Piece" width="150" />
+</p>
 <h1 align="center">👋 Hi, I'm Chorn THOEN</h1>
 <h3 align="center">🚀 Flutter Developer | Mobile Enthusiast | Backend Explorer</h3>
 
