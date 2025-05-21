@@ -1,4 +1,9 @@
 <!-- Banner -->
+<animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" target="_blank">
+          
+
 
 
 <h1 align="center">👋 Hi, I'm Chorn THOEN</h1>
